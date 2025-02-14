@@ -1,6 +1,21 @@
-# 💫 About Me:
-🌟 Hi, I'm darkj0k!<br>🚀 Passionate Developer | Python Enthusiast | Backend Explorer<br>👨‍💻 About Me<br>📍 Based in Russia<br>💻 Skilled in Python, C, C++, C#, JavaScript, HTML/CSS<br>🔥 Focused on Backend Development & Web Technologies<br>📖 Always learning and improving my coding skills<br>🛠 Tech Stack<br>⚡ Backend: Python (FastAPI, Flask, Django)<br>🏗 Frontend: JavaScript, HTML/CSS<br>🖥 Other Languages: C, C++, C#<br>🗄 Databases: PostgreSQL, MySQL, SQLite<br>🚧 Current Projects<br>🔹 Task-Manager – A FastAPI-based PET project for task management<br>📫 Connect with Me<br>🐙 GitHub: @darkj0k<br>💬 Open to collaborations & new opportunities!
+# 🌟 Hi, I'm **darkj0k**!  
 
+### 🚀 Passionate Developer | Python Enthusiast | Backend Explorer  
+
+### 👨‍💻 About Me  
+- 📍 Based in **Russia**  
+- 💻 Skilled in **Python, C, C++, C#, JavaScript, HTML/CSS**  
+- 🔥 Focused on **Backend Development & Web Technologies**  
+- 📖 Always learning and improving my coding skills  
+
+### 🛠 Tech Stack  
+- ⚡ **Backend:** Python (**FastAPI**)  
+- 🏗 **Frontend:** JavaScript, HTML/CSS  
+- 🖥 **Other Languages:** C, C++, C#  
+- 🗄 **Databases:** PostgreSQL, MySQL, SQLite  
+
+### 🚧 Current Projects  
+- 🔹 **Task-Manager** – A FastAPI-based project for task management  
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/@ncesam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rybushkin09@bk.ru) 
